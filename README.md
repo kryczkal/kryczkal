@@ -11,11 +11,6 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 **[AlkOS](https://github.com/kryczkal/AlkOS)**  
 An ambitious x86_64 operating system built from scratch, currently focused on implementing a process scheduler and working toward user space applications and a shell interface.
 
-*Key Aspects:*  
-- Handcrafted kernel logic and memory management  
-- Roadmap toward process scheduling and shell integration  
-- Deep insight into OS internals and hardware-level operations
-
 ---
 
 ## Systems and Performance-Oriented Projects ⚙️
