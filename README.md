@@ -22,7 +22,7 @@ An ambitious x86_64 operating system built from scratch, currently focused on im
 | **[CudaKMeans](https://github.com/kryczkal/CudaKMeans)** | GPU-accelerated clustering with CUDA and C++, plus optional 3D visualization. | C++, CUDA, Thrust, OpenGL |
 | **[CpuRenderEngine](https://github.com/kryczkal/CpuRenderEngine)** | A CPU-based rendering engine optimized for parallel computation and data structures. | C++, Multithreading |
 | **[ColorSpaceConverter](https://github.com/kryczkal/ColorSpaceConverter)** | Convert images between color profiles with adjustable rendering intents and out-of-gamut visualization. | C++, Qt, Image Processing |
-| **[PolygonEditor](https://github.com/kryczkal/PolygonEditor-ComputerGraphics-2024)** | An editor for polygons under geometric constraints and continuity conditions. | C++, Computer Graphics |
+| **[PolygonEditor](https://github.com/kryczkal/PolygonEditor)** | An editor for polygons under geometric constraints and continuity conditions. | C++, Computer Graphics |
 | **[FlightManager](https://github.com/kryczkal/FlightManager)** | A modular Airport Management System handling real-time flight operations, data serialization, and TCP streams. | C#, OOP Principles, Networking |
 
 ---
