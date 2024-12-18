@@ -7,13 +7,14 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 
 ---
 
-## AlkOS – My Flagship Project and Engineering Thesis 🚀  
+## 🚀 AlkOS – My Flagship Project and Engineering Thesis 
+
 **[AlkOS](https://github.com/kryczkal/AlkOS)**  
 An ambitious x86_64 operating system built from scratch, currently focused on implementing a process scheduler and working toward user space applications and a shell interface.
 
 ---
 
-## Systems and Performance-Oriented Projects ⚙️
+## ⚙️ Systems and Performance-Oriented Projects
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
@@ -26,7 +27,7 @@ An ambitious x86_64 operating system built from scratch, currently focused on im
 
 ---
 
-## Machine Learning & AI 🤖
+## 🤖 Machine Learning & AI
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
@@ -36,7 +37,7 @@ An ambitious x86_64 operating system built from scratch, currently focused on im
 
 ---
 
-## Hackathon Achievements 🏆
+## 🏆 Hackathon Achievements
 
 | Competition & Year                                                   | Achievement         | Project                                                                                             | Core Idea                                                                                               |
 |----------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -51,45 +52,31 @@ An ambitious x86_64 operating system built from scratch, currently focused on im
 | **[HackYeah '24](https://github.com/KwiatkowskiML/GrowTogether)**     | N/A | Community-driven crowdfunding platform                                                               | Supporting local businesses through loyalty rewards & benefits                                           |
 
 ---
----
 
-## Miscellaneous 🧰
+## 🧰 Miscellaneous
+
 - **[ArchDotfiles](https://github.com/kryczkal/ArchDotfiles):** Automated Arch Linux setup scripts & configs.
 - **[C-Posix-Operating-Systems](https://github.com/kryczkal/C-Posix-Operating-Systems):** POSIX-compliant C programs demonstrating concurrency, IPC, and system-level operations.
 - **[Matlab-Numerical-Recipes](https://github.com/kryczkal/Matlab-Numerical-Recipes):** Numerical methods in Matlab for interpolation, integration, and ODE solving.
 
 ---
 
-## Technology Breadth 🌐
+## 🌐 Technology Breadth
 
 **Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Frameworks & Tech:**  
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333333)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333333) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 **Blockchain & AI:**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Move](https://img.shields.io/badge/-Move-0088CC?style=flat)
-![Aptos](https://img.shields.io/badge/-Aptos-333333?style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Move](https://img.shields.io/badge/-Move-0088CC?style=flat) ![Aptos](https://img.shields.io/badge/-Aptos-333333?style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
   
-**Let’s Connect:** 
+# 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/łukasz-kryczka-562693249) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C5%82ukasz-kryczka-562693249/)](https://www.linkedin.com/in/%C5%82ukasz-kryczka-562693249/)  
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/kryczkal/count.svg)
