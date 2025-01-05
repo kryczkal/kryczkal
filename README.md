@@ -9,10 +9,12 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 
 ## 🚀 AlkOS – My Flagship Project and Engineering Thesis 
 
-**[AlkOS](https://github.com/kryczkal/AlkOS)**  
-An ambitious x86_64 operating system built from scratch, currently focused on implementing a process scheduler and working toward user space applications and a shell interface.
+| **Project** | **Description** | **Tech Highlights** |
+|-------------|------------------|----------------------|
+| **[AlkOS](https://github.com/kryczkal/AlkOS)** | An ambitious x86_64 operating system built from scratch. Currently implementing a process scheduler with plans for user space applications and a shell interface. | C, C++, Assembly, Multithreading |
 
 ---
+
 
 ## ⚙️ Systems and Performance-Oriented Projects
 
@@ -20,9 +22,9 @@ An ambitious x86_64 operating system built from scratch, currently focused on im
 |---------|-------------|-----------------|
 | **[EasyVault](https://github.com/kryczkal/EasyVault)** | A full-stack app for file sharing at events, leveraging a serverless architecture on Google Cloud. | Go, Python, Flutter, Terraform, GCP |
 | **[CudaKMeans](https://github.com/kryczkal/CudaKMeans)** | GPU-accelerated clustering with CUDA and C++, plus optional 3D visualization. | C++, CUDA, Thrust, OpenGL |
-| **[CpuRenderEngine](https://github.com/kryczkal/CpuRenderEngine)** | A CPU-based rendering engine optimized for parallel computation and data structures. | C++, Multithreading |
+| **[CpuRenderEngine](https://github.com/kryczkal/CpuRenderEngine)** | A CPU-based rendering engine optimized for parallel computation and data structures. | C++, QT, Multithreading |
 | **[ColorSpaceConverter](https://github.com/kryczkal/ColorSpaceConverter)** | Convert images between color profiles with adjustable rendering intents and out-of-gamut visualization. | C++, Qt, Image Processing |
-| **[PolygonEditor](https://github.com/kryczkal/PolygonEditor)** | An editor for polygons under geometric constraints and continuity conditions. | C++, Computer Graphics |
+| **[PolygonEditor](https://github.com/kryczkal/PolygonEditor)** | An editor for polygons under geometric constraints and continuity conditions. | C++, QT, Computer Graphics |
 | **[FlightManager](https://github.com/kryczkal/FlightManager)** | A modular Airport Management System handling real-time flight operations, data serialization, and TCP streams. | C#, OOP Principles, Networking |
 
 ---
