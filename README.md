@@ -11,7 +11,7 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 
 | **Project** | **Description** | **Tech Highlights** |
 |-------------|------------------|----------------------|
-| **[AlkOS](https://github.com/Jlisowskyy/AlkOS)** | An ambitious x86_64 operating system built from scratch. Currently implementing a process scheduler with plans for user space applications and a shell interface. | C, C++, Assembly, Multithreading |
+| **[AlkOS](https://github.com/Jlisowskyy/AlkOS)** | An ambitious x86_64 operating system built from scratch. The immediate goal is to implement a preemptive multitasking scheduler. Future plans include developing a shell and support for user-mode programs. | C, C++, Assembly, Multithreading |
 
 ---
 
