@@ -22,6 +22,7 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 |---------|-------------|-----------------|
 | **[EasyVault](https://github.com/kryczkal/EasyVault)** | A full-stack app for file sharing at events, leveraging a serverless architecture on Google Cloud. | Go, Python, Flutter, Terraform, GCP |
 | **[CudaKMeans](https://github.com/kryczkal/CudaKMeans)** | GPU-accelerated clustering with CUDA and C++, plus optional 3D visualization. | C++, CUDA, Thrust, OpenGL |
+| **[CudaMCTS-Checkers](https://github.com/kryczkal/CudaMCTS-Checkers)** | A Monte Carlo Tree Search engine for Checkers with multi-threaded CPU and CUDA GPU simulation.| C++, CUDA, MCTS, Multithreading
 | **[CpuRenderEngine](https://github.com/kryczkal/CpuRenderEngine)** | A CPU-based rendering engine optimized for parallel computation and data structures. | C++, QT, Multithreading |
 | **[ColorSpaceConverter](https://github.com/kryczkal/ColorSpaceConverter)** | Convert images between color profiles with adjustable rendering intents and out-of-gamut visualization. | C++, Qt, Image Processing |
 | **[PolygonEditor](https://github.com/kryczkal/PolygonEditor)** | An editor for polygons under geometric constraints and continuity conditions. | C++, QT, Computer Graphics |
