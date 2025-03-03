@@ -1,4 +1,4 @@
-# Hi, I’m Łukasz Kryczka <img src="https://img.shields.io/badge/OS-Developer-blueviolet" align="right">
+# Hi, I’m Łukasz Kryczka
 
 I’m a Computer Science student driven by a deep passion for **low-level programming**, **operating systems**, and **high-performance computing**. Whether I’m bootstrapping a custom kernel, accelerating computations with CUDA, or experimenting with complex algorithms, I’m constantly pushing the boundaries of technology from the ground up.
 
