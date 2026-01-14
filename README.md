@@ -2,7 +2,7 @@
 
 I’m a Computer Science student driven by a deep passion for **low-level programming**, **operating systems**, and **high-performance computing**. Whether I’m bootstrapping a custom kernel, accelerating computations with CUDA, or experimenting with complex algorithms, I’m constantly pushing the boundaries of technology from the ground up.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kryczkal&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kryczkal&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true)
 
 
 ---
@@ -81,4 +81,4 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C5%82ukasz-kryczka-562693249/)](https://www.linkedin.com/in/%C5%82ukasz-kryczka-562693249/)  
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/kryczkal/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=kryczkal&style=flat-square&color=blue)
