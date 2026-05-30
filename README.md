@@ -1,6 +1,6 @@
 # Hi, I’m Łukasz Kryczka
 
-I’m a Computer Science student driven by a deep passion for **low-level programming**, **operating systems**, and **high-performance computing**. Whether I’m bootstrapping a custom kernel, accelerating computations with CUDA, or experimenting with complex algorithms, I’m constantly pushing the boundaries of technology from the ground up.
+I’m a software engineer driven by a deep passion for **low-level programming**, **operating systems**, and **high-performance computing** — and these days I’m building **AI-native developer tooling and agents**. Whether I’m bootstrapping a custom kernel, accelerating computations with CUDA, or wiring up an agent that turns every code change into a falsifiable prediction, I’m constantly pushing the boundaries of technology from the ground up.
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kryczkal&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true)
 
@@ -12,6 +12,17 @@ I’m a Computer Science student driven by a deep passion for **low-level progra
 | **Project** | **Description** | **Tech Highlights** |
 |-------------|------------------|----------------------|
 | **[AlkOS](https://github.com/Jlisowskyy/AlkOS)** | An ambitious x86_64 operating system built from scratch. Runs doom. | C, C++, Assembly, Multithreading |
+
+---
+
+## 🛠️ AI-Native Tooling & Agents
+
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[conjecture](https://github.com/kryczkal/conjecture)** | Conjectures and refutations for software — a Claude Code plugin that turns every change into a falsifiable, trust-graded prediction. | Claude Code, Agents, Epistemics |
+| **[iris](https://github.com/kryczkal/iris)** | Hypothesis engine for software development: evidence-based process improvement mined from real session data. | TypeScript, LLMs, Analytics |
+| **[yt-distiller](https://github.com/kryczkal/yt-distiller)** | Right-click a YouTube video → dense brief in the side panel. yt-dlp transcript distilled on your Claude subscription, native host spawned on demand. | JavaScript, Browser Extension, Native Messaging |
+| **[vimx](https://github.com/kryczkal/vimx)** | Keyboard-driven browser automation tooling for agentic, vim-style web control. | TypeScript, Browser Automation |
 
 ---
 
