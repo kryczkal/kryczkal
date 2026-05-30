@@ -6,9 +6,9 @@ Software engineer building **AI-native developer tooling** — agents, falsifiab
 
 | | |
 |---|---|
-| **[conjecture](https://github.com/kryczkal/conjecture)** | Claude Code plugin — every change becomes a falsifiable, trust-graded prediction |
-| **[vimx](https://github.com/kryczkal/vimx)** | Vim-style browser automation for agents (MCP) |
-| **[yt-distiller](https://github.com/kryczkal/yt-distiller)** | YouTube → dense brief in the side panel; transcript distilled on your Claude sub |
+| **[vimx](https://github.com/kryczkal/vimx)** | Web navigation MCP — gives small, dumb models reliable browser control |
+| **[conjecture](https://github.com/kryczkal/conjecture)** | Reasoning framework for knowledge accumulation — claims, trust grades, refutations |
+| **[yt-distiller](https://github.com/kryczkal/yt-distiller)** | Fun one-shot: right-click a YouTube video → dense brief in the side panel |
 
 ## Credibility anchor
 
@@ -16,11 +16,21 @@ Software engineer building **AI-native developer tooling** — agents, falsifiab
 
 ## Hackathons
 
-| | |
-|---|---|
-| **[ETHGlobal Cannes '26](https://github.com/kryczkal/EthCannes2026)** ([event](https://ethglobal.com/events/cannes2026)) | Winner · global top 30 → Singapore finals (8 cities, top 9/city advance) |
-| **Cogni · San Francisco** | Winner |
-| *Earlier* | 1st BestHackingLeague '24 · 2nd AngelHack Warsaw · 2nd HackYeah '24 |
+### 2026
+
+| Event | Result | Project |
+|-------|--------|---------|
+| **[ETHGlobal Cannes](https://ethglobal.com/events/cannes2026)** | **Winner** | [EthCannes2026](https://github.com/kryczkal/EthCannes2026) |
+| **ETHGlobal world finals** | **Global top 30** → Singapore | 8 cities · ~60 teams/city · top 9/city advance · 30 to finals |
+| **Cogni · San Francisco** | **Winner** | — |
+
+### 2024
+
+| Event | Result | Project |
+|-------|--------|---------|
+| **BestHackingLeague '24** | **1st place** | AI phishing simulation & security training |
+| **[AngelHack Warsaw '24](https://github.com/kryczkal/AngelHack_solution)** | **2nd place** | TikTok-style educational platform, blockchain-backed |
+| **[HackYeah](https://github.com/PiotrTyrakowski/PoopPatrol)** | **2nd place** | Early illness detection via children's health patterns |
 
 ## Earlier work
 
