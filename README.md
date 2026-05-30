@@ -21,15 +21,15 @@ Software engineer building **AI-native developer tooling** — agents, falsifiab
 | Event | Result | Project |
 |-------|--------|---------|
 | **[ETHGlobal Cannes](https://ethglobal.com/events/cannes2026)** | **Winner** | [EthCannes2026](https://github.com/kryczkal/EthCannes2026) |
-| **ETHGlobal world finals** | **Global top 30** → Singapore | 8 cities · ~60 teams/city · top 9/city advance · 30 to finals |
 | **Cogni · San Francisco** | **Winner** | — |
 
 ### 2024
 
 | Event | Result | Project |
 |-------|--------|---------|
-| **BestHackingLeague '24** | **1st place** | AI phishing simulation & security training |
-| **[AngelHack Warsaw '24](https://github.com/kryczkal/AngelHack_solution)** | **2nd place** | TikTok-style educational platform, blockchain-backed |
+| **BestHackingLeague** | **1st place** | AI phishing simulation & security training |
+| **[AngelHack · Warsaw](https://github.com/kryczkal/AngelHack_solution)** | **2nd place** | TikTok-style educational platform, blockchain-backed |
+| **AngelHack · world finals** | **Global top 30** → Singapore *(8 cities · ~60 teams/city · top 9 advance)* | [AngelHackFinalsSingapore](https://github.com/kryczkal/AngelHackFinalsSingapore) · [Live Together](https://live-together-bay.vercel.app/) |
 | **[HackYeah](https://github.com/PiotrTyrakowski/PoopPatrol)** | **2nd place** | Early illness detection via children's health patterns |
 
 ## Earlier work
